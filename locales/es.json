@@ -18,7 +18,7 @@
       "admin_link_html": "¿Es el propietario de la tienda? <a href=\"/admin\" class=\"link\">Inicie sesión aquí</a>"
     },
     "copyright":{
-      "powered_by_html": "Wokiee. Todos los derechos reservados"
+      "powered_by_html": ""
     },
     "aria_label": {
       "link": "Enlace de página"

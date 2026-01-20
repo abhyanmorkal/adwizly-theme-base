@@ -1,4 +1,3 @@
-console.log('Wokiee Shopify Theme. Version 3.1.0 shopify 2.0. https://themeforest.net/item/wokiee-multipurpose-shopify-theme/22559417')
 
 function getFocusableElements(container) {
   return Array.from(

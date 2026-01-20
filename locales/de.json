@@ -18,7 +18,7 @@
       "admin_link_html": "Sind Sie der Shop-Betreiber? <a href=\"/admin\" class=\"link\">Hier anmelden</a>"
     },
     "copyright":{
-      "powered_by_html": "Wokiee. Alle Rechte vorbehalten"
+      "powered_by_html": ""
     },
     "aria_label": {
       "link": "Seitenlink"

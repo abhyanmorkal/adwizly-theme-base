@@ -131,17 +131,10 @@
             "text": "<p>Wokiee is one of the most powerful and flexible themes for creating a modern online store on the Shopify platform. It’s perfect for any type of business, no matter what you sell: fashion clothing, accessories, cosmetics, electronics, or even auto parts. This theme is designed to make your online store look stylish and professional while offering your customers an exceptional user experience.</p><p>With a modern design and responsive interface, Wokiee ensures full optimization for mobile devices, allowing your customers to shop comfortably from any device. The theme supports a wide range of products, variants, and categories, giving you the flexibility to organize your store exactly the way you want.</p>"
           }
         },
-        "button_XQUEXc": {
-          "type": "button",
-          "settings": {
-            "button_name": "Buy Theme"
-          }
-        }
       },
       "block_order": [
         "heading_bV73Gq",
-        "richtext_BhbRXe",
-        "button_XQUEXc"
+        "richtext_BhbRXe"
       ],
       "name": "t:names.text",
       "settings": {
@@ -156,7 +149,7 @@
         "height_mobile_value": 600,
         "text_align": "text-center",
         "hover_underline": false,
-        "url": "https://themeforest.net/item/wokiee-multipurpose-shopify-theme/22559417?s_rank=3",
+        "url": "",
         "show_lines": false,
         "lines_width": "fullwidth",
         "background": "hide",

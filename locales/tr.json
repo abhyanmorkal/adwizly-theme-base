@@ -9,7 +9,7 @@
       "admin_link_html": "Mağaza sahibi siz misiniz? <a href=\"/admin\" class=\"link\">Buradan giriş yapın</a>"
     },
     "copyright":{
-      "powered_by_html": "Wokiee. Tüm Hakları Saklıdır"
+      "powered_by_html": ""
     },
     "aria_label":{
       "link": "Sayfa bağlantısı"

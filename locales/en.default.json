@@ -9,7 +9,7 @@
       "admin_link_html": "Are you the store owner? <a href=\"/admin\" class=\"link\">Log in here</a>"
     },
     "copyright":{
-      "powered_by_html": "Wokiee. All Rights Reserved"
+      "powered_by_html": ""
     },
     "aria_label":{
       "link": "Page link"
